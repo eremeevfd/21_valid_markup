@@ -120,6 +120,14 @@ hr.small {
     background: none;
 }
 
+#menu-close {
+    align-content: center;
+}
+
+.close-menu {
+    float: right;
+}
+
 #menu-toggle {
     z-index: 1;
     position: fixed;
